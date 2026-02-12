@@ -37,19 +37,19 @@ export default function Home() {
         </div>
 
       
-        {/* <DealsSection /> */}
+         <DealsSection /> 
 
-        {/* <CategoryBlock 
+       <CategoryBlock 
           title="Home and outdoor" 
           bannerImg="https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=400&q=40" 
         />
         <CategoryBlock 
           title="Consumer electronics" 
           bannerImg="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=40" 
-        /> */}
+        /> 
 
         
-        {/* <InquirySection />
+         <InquirySection />
 
        
         <RecommendedItems />
@@ -58,14 +58,15 @@ export default function Home() {
         <ExtraServices />
 
        
-        <RegionSection /> */}
+        <RegionSection /> 
       </div>
 
 
-      {/* <Newsletter />
+      <Newsletter />
 
 
-      <Footer /> */}
+      <Footer /> 
     </div>
   );
+
 }
